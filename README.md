@@ -1,6 +1,6 @@
 # Churn-Modelling-Problem [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Churn-Modelling-Problem/blob/master/LICENSE.txt)
 
-Solving a Data Analytics challenge for a bank of customers 10k.
+Solving a Data Analytics challenge for a bank of customers 10k, By building Artificial Neural Network.
 
 This dataset contains the bank gathered information such as customer id, credit score, gender, age, tenure, balance, if the customer is active, has a credit card, etc. During a period of 6 months, the bank observed if these customers left or stayed in the bank. 
 
