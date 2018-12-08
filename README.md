@@ -1,4 +1,4 @@
-# Churn-Modelling-Problem [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Churn-Modelling-Problem/blob/master/LICENSE.txt)
+# Churn-Modelling-Problem [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Churn-Modelling-Problem/blob/master/LICENSE)
 
 Solving a Data Analytics challenge for a bank of customers 10k, By building Artificial Neural Network.
 
